@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&family=Press+Start+2P&display=swap');
 
-header {
+header  {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -14,7 +14,7 @@ nav {
     text-align: right;
 }
         
-a {
+a   {
     display: inline-flex;
     align-items: center;
     color: #000;
@@ -25,7 +25,7 @@ a {
     margin-right: 30px;
 }
 
-a::before {
+a::before   {
     content: "";
     background-color: #CEB02A;
     width: 10px;
@@ -41,7 +41,7 @@ a::before {
     margin-right: 0px;
 }
 
-#button:hover {
+#button:hover   {
     background-color: black;
     box-shadow: 5px 5px 0px #CEB02A;
     color: #CEB02A;
