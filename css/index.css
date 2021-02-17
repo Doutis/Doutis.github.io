@@ -43,6 +43,6 @@ a::before   {
 
 #button:hover   {
     background-color: black;
-    box-shadow: 5px 5px 0px #CEB02A;
+    box-shadow:  5px 5px 0px #CEB02A;
     color: #CEB02A;
 }
